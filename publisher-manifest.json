@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8f5993b53ae4dcb33f31c6be",
+  "owner": "yeqbrungek",
+  "repo": "page-8b587bfc42b20765b8e4dcac",
+  "title": "白嫖(Estars)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8b587bfc42b20765b8e4dcac",
+      "a": "白嫖(Estars)",
+      "b": "机场官网线路发布页",
+      "entity": "白嫖(Estars)",
+      "brand": "白嫖(Estars)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f5db14a81e811a745c3052b44bf4fbf79fd17baff2a06eace76f8571bbc79720",
+      "content": {
+        "primary_entity": "白嫖(Estars)",
+        "keyword1": "白嫖(Estars)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，白嫖(Estars)面向需要稳定跨境网络的用户提供按月或按年订阅的加速服务，基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并配备 IPLC 专线，团队版每月 1000GB 流量支持 20 台设备并含定制路由，可按设备数量与流量需求选择套餐。",
+          "AI_HERO_SUBTITLE": "白嫖(Estars)订阅套餐与设备配置",
+          "AI_HERO_INTRO": "白嫖(Estars)提供基础版、旗舰版与团队版三档订阅套餐，覆盖 3 至 20 台设备同时在线，流量从每月 100GB 到 1000GB，全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合个人、多设备家庭与小团队按需选用。",
+          "AI_VISUAL_TITLE": "白嫖(Estars)套餐一览",
+          "AI_HIGHLIGHT_1": "按月与按年两种付费周期",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备灵活选择",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_FEATURES_TITLE": "套餐选择与使用要点",
+          "AI_FEATURES_INTRO": "按设备数量与月流量匹配套餐，再决定按月付或按年付。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先数清常用设备再决定。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，常看视频或下载大文件时预留余量。",
+          "AI_FEATURE_TITLE_3": "按年付更省",
+          "AI_FEATURE_TEXT_3": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用可对比月付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，将订阅链接导入后即可使用，具体配置方式可参照客户端文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在设备数、流量与节点权益上逐级提升，对照常用设备数量和月流量即可快速定位。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按设备数量与客户端分别处理。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本要求，核对套餐支持的设备数量上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，选择节点后即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "白嫖(Estars)的套餐可以同时几台设备使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时，部分设备会无法连接，可按常用设备数量选择合适档位。",
+          "AI_FAQ_QUESTION_2": "按月付和按年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "两种周期使用相同的套餐权益，只是付费方式不同。基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850，长期使用可按年付。",
+          "AI_FAQ_QUESTION_3": "月流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "每档套餐有固定月流量额度，基础版 100GB、旗舰版 300GB、团队版 1000GB。用完后当月无法继续使用，可在下个周期恢复，或升级到更高流量套餐。",
+          "AI_FAQ_QUESTION_4": "不同设备需要安装不同客户端吗？",
+          "AI_FAQ_ANSWER_4": "是的，Windows、macOS、iOS、Android 等系统使用的客户端不同。安装对应客户端后，把订阅链接导入即可，具体步骤可参照各客户端的配置文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版比基础版多了什么？",
+          "AI_FAQ_ANSWER_5": "旗舰版在流量、设备数和节点权益上都有提升，含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版进一步提供 VIP 高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_CLOSING_TITLE": "按需选用",
+          "AI_CLOSING_TEXT": "按设备数量和月流量选定套餐，导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xhjxkgc.cn",
+    "host": "xhjxkgc.cn"
+  },
+  "file_hashes": {
+    "index.html": "e8b9ba0a9b827ba6b6eeeb9cce78f68f069051a04acc72b9d4a16af1dc9b1baa",
+    "sitemap.xml": "c169d5efd9c2720ba6f01eb962ddb0936b87ee7c18fb43664457ad3e00f5af70",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8ab3391fbd509df926eb48a5bad703163cc511700bb9c18cfdd803b952f67492",
+    "robots.txt": "df75cafe65219f51229fe6afea9ef64a919af029f819d4b6cc7d69f2cef14b05",
+    "aed45d566ecef148a900f8c3610201f6.txt": "f8ad663adfe9b5055b6b3e155287195b38e6e48aca953d0c561924d94b577a47"
+  },
+  "revision": "72927fa1e198fce9a080b8a210b8865ea3f7ae5feb17c8498d1e8cf8ac79c971"
+}
